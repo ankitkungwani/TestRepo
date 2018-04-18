@@ -1,0 +1,7 @@
+test commit 1
+test commit 2
+<<<<<<< HEAD
+test local commit
+=======
+test remote commit
+>>>>>>> edf2667541f5eb6fa97ab630dc8351e7766fa5ab
